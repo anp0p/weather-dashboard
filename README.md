@@ -9,8 +9,6 @@ A modern weather dashboard application that combines real-time weather data with
 - Clean, responsive web interface
 - Fault-tolerant design with graceful degradation
 
-## Screenshot
-![Weather Dashboard Screenshot](screenshot.png)
 
 ## Demo
 [![Weather Dashboard Demo](https://img.youtube.com/vi/VW1CnqoicJ0/maxresdefault.jpg)](https://youtu.be/VW1CnqoicJ0)
