@@ -12,6 +12,17 @@ A modern weather dashboard application that combines real-time weather data with
 ## Screenshot
 ![Weather Dashboard Screenshot](screenshot.png)
 
+## Demo
+https://github.com/anp0p/weather-dashboard/assets/demo.mp4
+
+Watch the demo video above to see the Weather Dashboard in action:
+- Temporal workflow execution 
+- Real-time weather data fetching
+- AI-powered commentary generation
+- Error handling demonstration
+
+[View full demo video](https://github.com/anp0p/weather-dashboard/assets/demo.mp4)
+
 ## Getting Started
 
 ### Prerequisites
