@@ -1,0 +1,9 @@
+openai:
+  api_key: "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"
+
+weather:
+  api_key: "7d093c781cf770466969c1fb3c9fc39b"
+
+temporal:
+  #host_port: "viaduct.proxy.rlwy.net:46280"
+  host_port: "interchange.proxy.rlwy.net:15483"
