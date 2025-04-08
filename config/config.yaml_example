@@ -1,16 +1,8 @@
 openai:
-  api_key: "your_api_key"
+  api_key: "your_api_key" # e.g. "sk-proj-1231234124"
 
 weather:
-  api_key: "your_api_key"
+  api_key: "your_api_key" # e.g. "123123123123"
 
 temporal:
-  host_port: "host:port"
-openai:
-  api_key: "your_api_key"
-
-weather:
-  api_key: "your_api_key"
-
-temporal:
-  host_port: "host:port"
+  host_port: "host:port" # e.g. "interchange.proxy.rlwy.net:15483"
